@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "ifruitstaff",
+    "password": "staff1122",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "IFruitSMP.aternos.me",
+    "port": 47095,
+    "version": "1.21.8"
   },
 
   "position": {
@@ -43,20 +43,20 @@
     },
 
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 60,
 
       "messages": [
         "I'm a regular player ",
-        "My owner is urFate_ ",
+        "My owner is Kc_372 ",
         "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "Subscribe To KillCode.372"
       ]
     },
 
     "chat-log": true,
-    "auto-reconnect": false,
-    "auto-reconnect-delay": 5000
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 5
   }
 }
